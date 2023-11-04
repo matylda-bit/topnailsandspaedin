@@ -393,7 +393,7 @@ body
 /*Contact form*/
 .groupfbye 
 {
-    background: url(../images/bg-btn.webp) center center no-repeat;
+    background: url(/images/bg-btn.jpg) center center no-repeat;
     background-size: cover;
     height: 130px;
     width: 55px;
