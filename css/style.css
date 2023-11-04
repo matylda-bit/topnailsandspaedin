@@ -434,7 +434,7 @@ body
     -mox-border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
     -moz-border-bottom-left-radius: 4px;
-    background: url(images/bg-btn.jpg) center center no-repeat;   
+    background: url(/images/bg-btn.jpg) center center no-repeat;   
     cursor: pointer;
     opacity: 1.0;
 }
@@ -450,7 +450,7 @@ body
     -mox-border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
     -moz-border-bottom-left-radius: 4px;
-    background: url(images/bg-btn.jpg) center center no-repeat;
+    background: url(/images/bg-btn.jpg) center center no-repeat;
     cursor: pointer;
     opacity: 1.0;
 }
